@@ -1,0 +1,4 @@
+# Ignore everything inside config/files
+config/files/**
+# Don't ignore specific file
+!config/files/example.yaml
